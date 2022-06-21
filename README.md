@@ -5,6 +5,9 @@ Implementando a funcionalidade de login social em um app com React-Native!
 </LINKEDIN>
 
 Implementando a autenticação social utilizando o protocolo OAuth2.
+OAuth2 é um dos protocolos de autenticação, é um dos mais utilizados porque ele é considerado o mais seguro e mais completo.
+Para utlizar o OAuth2 é necessário registrar a aplicação em um provedor de identidade(IDP)
+
 Utilizando a estratégia login social que é uma estratégia para entregar ao usuário uma experiência agilidade.
 Autenticação social o usuário pode utilizar as credenciais de uma conta que ele já possui.
 

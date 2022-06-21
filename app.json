@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "formapp",
-    "slug": "formapp",
-    "scheme": "formapp",
+    "name": "loginsocial",
+    "slug": "loginsocial",
+    "scheme": "loginsocial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
