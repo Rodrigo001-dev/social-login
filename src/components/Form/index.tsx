@@ -18,7 +18,7 @@ export function Form() {
 
   async function handleGoogleSignIn() {
     try {
-      const CLIENT_ID = "1014358576404-bhpaa5olssd0iarfv3ts5bui919ghf3j.apps.googleusercontent.com";
+      const CLIENT_ID = "your_client_id";
       const REDIRECT_URI = "https://auth.expo.io/@anonymous/loginsocial-193765b1-c6f4-4ef4-9185-59e915ff42a4";
       const SCOPE = encodeURI("profile email");
       const RESPONSE_TYPE = "token";
